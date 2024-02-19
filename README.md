@@ -35,7 +35,7 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "Security Research",
-    "Web Development",
+    "Web Application Development",
     "Mobile Application Development",
   ]
  
