@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpeoples&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" alt="cpeoples" /></p>
+
 <!--
 **cpeoples/cpeoples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
