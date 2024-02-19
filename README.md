@@ -2,18 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpeoples&layout=compact&theme=dracula&hide_border=true"></div>
-
-<div align="right">
-<a href="https://linkedin.com/in/chrispeoples">
-  <img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg"/>
-</a>
-<a href="https://cpeoples.github.io">
-  <img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg"/>
-</a>
-<a href="https://gitlab.com/cpeoples">
-  <img height="50" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg"/>
-</a>
+<div align="center">
+  <a href="https://linkedin.com/in/chrispeoples">
+    <img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg"/>
+  </a>
+  <a href="https://cpeoples.github.io">
+    <img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg"/>
+  </a>
+  <a href="https://gitlab.com/cpeoples">
+    <img height="50" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg"/>
+  </a>
 </div>
 
 ---
