@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpeoples&layout=compact&theme=dracula"></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpeoples&layout=compact&theme=dracula&hide_border=true"></div>
 
 <div align="right">
 <a href="https://linkedin.com/in/chrispeoples">
