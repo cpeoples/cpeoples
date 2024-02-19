@@ -27,7 +27,7 @@ current_job: Security Research Engineer
 education:
   [
     "Cybersecurity Associate of Applied Science",
-    "Networking Associate of Applied Science Degree",
+    "Networking Associate of Applied Science",
     "Bachelor's of Business Administration",
   ]
 
