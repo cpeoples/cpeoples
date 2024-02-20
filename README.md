@@ -47,7 +47,7 @@ technical_background:
       "dates": "04/2023 to Present",
     },
     {
-      "role": "Secure Research Analyst",
+      "role": "Security Research Analyst",
       "company": "NowSecure",
       "dates": "10/2021 - 04/2023",
     },
