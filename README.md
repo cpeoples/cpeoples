@@ -41,9 +41,21 @@ fields_of_interests:
  
 technical_background:
   [
-    "Security Research Engineer - 04/2023 to Present",
-    "Security Research Analyst - 10/2021 to 04/2023",
-    "Software Quality Assurance Engineeer - 09/2016 to 10/2021",
+    {
+      "role": "Security Research Engineer",
+      "company": "NowSecure",
+      "dates": "04/2023 to Present",
+    },
+    {
+      "role": "Secure Research Analyst",
+      "company": "NowSecure",
+      "dates": "10/2021 - 04/2023",
+    },
+    {
+      "position": "Software Quality Assurance Engineeer",
+      "company": "NowSecure",
+      "dates": "09/2016 - 10/2021",
+    }
   ]
   
 2024 Goals: "Create 25+ Projects and learn at least 5-10 new Technologies"
