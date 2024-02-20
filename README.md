@@ -52,7 +52,7 @@ technical_background:
       "dates": "10/2021 - 04/2023",
     },
     {
-      "position": "Software Quality Assurance Engineer",
+      "role": "Software Quality Assurance Engineer",
       "company": "NowSecure",
       "dates": "09/2016 - 10/2021",
     }
