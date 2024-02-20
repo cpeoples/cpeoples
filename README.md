@@ -27,7 +27,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me</h2>
 
 ```yaml
-name: Chris Peoples
+name: Christopher Peoples
 located_in: Augusta, Georgia USA
 current_job: Security Research Engineer
 education:
