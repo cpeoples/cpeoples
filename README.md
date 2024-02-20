@@ -46,7 +46,7 @@ technical_background:
     "Software Quality Assurance Engineeer - 09/2016 to 10/2021",
   ]
   
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2024 Goals: "Create 25+ Projects and learn at least 5-10 new Technologies"
 hobbies: ["Coding", "Music", "Guitar", "Comedy"]
 ```
   
