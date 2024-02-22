@@ -16,7 +16,7 @@
   </a>
   <br/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=cpeoples&label=Profile%20views&color=red&style=plastic" alt="cpeoples"/>
+  <img src="https://komarev.com/ghpvc/?username=cpeoples&label=Profile%20views&color=lightgrey&style=plastic" alt="cpeoples"/>
 </div>
 
 <br/>
