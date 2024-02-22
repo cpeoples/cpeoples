@@ -14,6 +14,9 @@
   <a href="https://gitlab.com/cpeoples">
   <img height="45" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg"/>
   </a>
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=cpeoples&label=Profile%20views&color=red&style=plastic" alt="cpeoples"/>
 </div>
 
 <br/>
