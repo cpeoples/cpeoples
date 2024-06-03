@@ -35,9 +35,9 @@ located_in: Augusta, Georgia USA
 current_job: QA Engineer
 education:
   [
-    "Cybersecurity Associate of Applied Science",
-    "Networking Associate of Applied Science",
-    "Bachelor's of Business Administration",
+    "Cyber/Computer Forensics and Counterterrorism",
+    "Computer Systems Networking and Telecommunications",
+    "Business Administration and Management",
   ]
 
 fields_of_interests:
