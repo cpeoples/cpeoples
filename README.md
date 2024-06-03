@@ -32,7 +32,7 @@
 ```yaml
 name: Christopher Peoples
 located_in: Augusta, Georgia USA
-current_job: Security Research Engineer
+current_job: QA Engineer
 education:
   [
     "Cybersecurity Associate of Applied Science",
