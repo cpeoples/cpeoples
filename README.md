@@ -55,12 +55,12 @@ technical_background:
     {
       "role": "QA Engineer",
       "company": "Splunk",
-      "dates": "06/2024 to Present",
+      "dates": "06/2024 - Present",
     },
     {
       "role": "Security Research Engineer",
       "company": "NowSecure",
-      "dates": "04/2023 to 01/2024",
+      "dates": "04/2023 - 01/2024",
     },
     {
       "role": "Security Research Analyst",
