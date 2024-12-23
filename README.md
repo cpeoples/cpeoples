@@ -42,7 +42,7 @@ education:
 
 fields_of_interests:
   [
-    "QA Automation",
+    "Automation",
     "Data Science",
     "Machine Learning",
     "Security Research",
@@ -53,7 +53,7 @@ fields_of_interests:
 technical_background:
   [
     {
-      "role": "QA Engineer",
+      "role": "Software Engineer III",
       "company": "Splunk",
       "dates": "06/2024 - Present",
     },
