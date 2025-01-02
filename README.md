@@ -1,6 +1,6 @@
 <p align="center">
    <a href="#">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20👋&height=100&section=header"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20👋&animation=fadeIn&height=100&section=header"/>
    </a>
 </p>
 <a href="#">
