@@ -7,17 +7,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpeoples&layout=compact&theme=transparent&hide_border=true">
 </a>
 <div align="right">
-   <a href="https://linkedin.com/in/chrispeoples">
-   <img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg"/>
-   </a>
-   &nbsp;
-   <a href="https://cpeoples.github.io">
-   <img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg"/>
-   </a>
-   &nbsp;
-   <a href="https://gitlab.com/cpeoples">
-   <img height="45" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg"/>
-   </a>
+   <a href="https://linkedin.com/in/chrispeoples"><img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg"/></a><img width="10"/>
+   <a href="https://cpeoples.github.io"><img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg"/></a><img width="10"/>
+   <a href="https://gitlab.com/cpeoples"><img height="45" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg"/></a>
    <br/>
    <br/>
    <a href="#">
