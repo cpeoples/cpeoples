@@ -23,7 +23,7 @@
    <br/>
    <br/>
    <a href="#">
-   <img src="https://komarev.com/ghpvc/?username=cpeoples&label=Profile%20views&color=gray&style=plastic&abbreviated=true" alt="cpeoples"/>
+   <img src="https://komarev.com/ghpvc/?username=cpeoples&label=Profile%20views&color=gray&style=plastic&abbreviated=true&color=lightgrey" alt="cpeoples"/>
    </a>
 </div>
 
