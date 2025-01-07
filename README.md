@@ -6,7 +6,7 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cpeoples&layout=compact&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-newracket.vercel.app/api/top-langs/?username=cpeoples&layout=compact&hide_border=true&theme=dark&include_forks=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
