@@ -10,10 +10,10 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="github-readme-stats-newracket.vercel.app/api/top-langs/?username=cpeoples&layout=compact&hide_border=true&theme=default&include_forks=true"
+    srcset="https://github-readme-stats-newracket.vercel.app/api/top-langs/?username=cpeoples&layout=compact&hide_border=true&theme=default&include_forks=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="github-readme-stats-newracket.vercel.app/api/top-langs/?username=cpeoples&layout=compact&hide_border=true&theme=default&include_forks=true" />
+  <img align="left" src="https://github-readme-stats-newracket.vercel.app/api/top-langs/?username=cpeoples&layout=compact&hide_border=true&theme=default&include_forks=true" />
 </picture>
 
 <div align="right">
