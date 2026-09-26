@@ -6,11 +6,11 @@
 
 <picture>
   <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=cpeoples&layout=compact&langs_count=12&hide_border=true&theme=dark&include_forks=true"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=cpeoples&layout=compact&langs_count=20&hide_border=true&theme=dark&include_forks=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=cpeoples&layout=compact&langs_count=12&hide_border=true&theme=default&include_forks=true"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=cpeoples&layout=compact&langs_count=20&hide_border=true&theme=default&include_forks=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=cpeoples&layout=compact&langs_count=12&hide_border=true&theme=default&include_forks=true" />
